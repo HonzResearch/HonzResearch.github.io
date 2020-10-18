@@ -1,37 +1,58 @@
-## Welcome to GitHub Pages
+## Welcome to HRIPIE ! 
 
-You can use the [editor on GitHub](https://github.com/HonzResearch/HonzResearch.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+We are currently a non-profit research institute based in Canton Greater Bay Area, mostly in **Guangzhou**. We spend half of our time to advance human knowledge without immediate concern for application, and the other half to apply mathematics to **pharmacometrics** and **industrial engineering**. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Courses
 
-### Markdown
+In Fall 2020 semester we are offering:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[MA102 Mathematics II](https://github.com/NanFangHong/HRIPIE-MA102)
+
+[PX902 Pharmacometrics Research](https://github.com/NanFangHong/HRIPIE-PX902) (access retricted to HRIPIE member)
+
+[IE902 Industrial Engineering Research](https://github.com/NanFangHong/HRIPIE-IE902) (access retricted to HRIPIE member)
+
+### Patent Pipeline
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+| Patent | Pre-Provisional | Provisional | Submitted | Issued | 
+| :----: | :----: | :----: | :----: | :----: |
+| HP001 | Yes |  |  |  |
+| HP002 | Yes |  |  |  |
+| HP003 | Yes |  |  |  |
+| HP004 | Yes |  |  |  |
+| HP005 | Yes |  |  |  |
+| HP006 | Yes |  |  |  |
+| HIE001 | Yes |  |  |  |
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### for maintainer of this page
 
-### Jekyll Themes
+You can use the [editor on GitHub](https://github.com/HonzResearch/HonzResearch.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files. Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HonzResearch/HonzResearch.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+#### How to Reach Us
+
+
+
+**Nanfang Hong** 
+
+*Address*
+
+26F, Dong'Shan Plaza, Guangzhou, China
+
+*Phone* 
+
++86 135 xxxxxx 52
+(replace x with 0)
+
+*E-mail* 
+
+hongnf(a)honz.com.cn   
+(replace (a) with @) 
+
+
+
+
