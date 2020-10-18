@@ -25,17 +25,7 @@ In Fall 2020 semester we are offering:
 | HP006 | Yes |  |  |  |
 | HIE001 | Yes |  |  |  |
 
-
-#### for maintainer of this page
-
-You can use the [editor on GitHub](https://github.com/HonzResearch/HonzResearch.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files. Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-
-
-
-#### How to Reach Us
-
-
+### How to Reach Us
 
 **Nanfang Hong** 
 
@@ -52,6 +42,15 @@ You can use the [editor on GitHub](https://github.com/HonzResearch/HonzResearch.
 
 hongnf(a)honz.com.cn   
 (replace (a) with @) 
+
+
+#### for maintainer of this page
+
+You can use the [editor on GitHub](https://github.com/HonzResearch/HonzResearch.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files. Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
+
+
 
 
 
