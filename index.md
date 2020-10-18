@@ -1,6 +1,8 @@
 ## Welcome to HRIPIE ! 
 
-We are currently a non-profit research institute based in Canton Greater Bay Area, mostly in **Guangzhou**. We spend half of our time to advance human knowledge without immediate concern for application, and the other half to apply mathematics to **pharmacometrics** and **industrial engineering**. 
+We are currently a non-profit research institute based in Canton Greater Bay Area, mostly in **Guangzhou**. 
+
+We spend half of our time to advance human knowledge without immediate concern for application, and the other half to apply mathematics to **pharmacometrics** and **industrial engineering**, which directly leads to patents. In some cases, our patent will turn into products, verified by our premier collaborator, Honz Pharma Group. 
 
 ### Courses
 
