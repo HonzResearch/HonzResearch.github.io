@@ -29,24 +29,19 @@ In Fall 2020 semester we are offering:
 
 ### How to Reach Us
 
-**Nanfang Hong** 
-
 *Address*
-
 26F, Dong'Shan Plaza, Guangzhou, China
 
 *Phone* 
-
 +86 135 xxxxxx 52
 (replace x with 0)
 
 *E-mail* 
-
 hongnf(a)honz.com.cn   
 (replace (a) with @) 
 
 
-#### for maintainer of this page
+#### For Page Maintainer
 
 You can use the [editor on GitHub](https://github.com/HonzResearch/HonzResearch.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files. Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
