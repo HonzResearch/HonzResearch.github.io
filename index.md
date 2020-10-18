@@ -17,15 +17,15 @@ In Fall 2020 semester we are offering:
 ### Patent Pipeline
 
 
-| Patent | Pre-Provisional | Provisional | Submitted | Issued | 
-| ---- | :----: | :----: | :----: | :----: |
-| HP001 | Yes |  |  |  |
-| HP002 | Yes |  |  |  |
-| HP003 | Yes |  |  |  |
-| HP004 | Yes |  |  |  |
-| HP005 | Yes |  |  |  |
-| HP006 | Yes |  |  |  |
-| HIE001 | Yes |  |  |  |
+| Patent | Provisional | Submitted | Issued | 
+| ---- | :----: | :----: | :----: |
+| HP001 |   |  |  |
+| HP002 |   |  |  |
+| HP003 |   |  |  |
+| HP004 |   |  |  |
+| HP005 |   |  |  |
+| HP006 |   |  |  |
+| HIE001 |   |  |  |
 
 ### How to Reach Us
 
