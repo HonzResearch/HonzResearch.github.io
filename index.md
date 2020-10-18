@@ -26,6 +26,9 @@ In Fall 2020 semester we are offering:
 | HP005 |   |  |  |
 | HP006 |   |  |  |
 | HIE001 |   |  |  |
+| HM001 |   |  |  |
+
+
 
 ### How to Reach Us
 
