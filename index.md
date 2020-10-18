@@ -14,9 +14,9 @@ In Fall 2020 semester we are offering:
 
 ### Patent Pipeline
 
-```markdown
+
 | Patent | Pre-Provisional | Provisional | Submitted | Issued | 
-| :----: | :----: | :----: | :----: | :----: |
+| ---- | :----: | :----: | :----: | :----: |
 | HP001 | Yes |  |  |  |
 | HP002 | Yes |  |  |  |
 | HP003 | Yes |  |  |  |
@@ -24,7 +24,7 @@ In Fall 2020 semester we are offering:
 | HP005 | Yes |  |  |  |
 | HP006 | Yes |  |  |  |
 | HIE001 | Yes |  |  |  |
-```
+
 
 #### for maintainer of this page
 
