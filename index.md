@@ -10,9 +10,9 @@ In Fall 2020 semester we are offering:
 
 [MA102 Mathematics II](https://github.com/NanFangHong/HRIPIE-MA102)
 
-[PX902 Pharmacometrics Research](https://github.com/NanFangHong/HRIPIE-PX902) (access retricted to HRIPIE member)
+[PX902 Pharmacometrics Research](https://github.com/NanFangHong/HRIPIE-PX902) (access restricted to HRIPIE member)
 
-[IE902 Industrial Engineering Research](https://github.com/NanFangHong/HRIPIE-IE902) (access retricted to HRIPIE member)
+[IE902 Industrial Engineering Research](https://github.com/NanFangHong/HRIPIE-IE902) (access restricted to HRIPIE member)
 
 ### Patent Pipeline
 
@@ -30,7 +30,7 @@ In Fall 2020 semester we are offering:
 
 
 
-### How to Reach Us
+### Reach to Us
 
 *Address*
 26F, Dong'Shan Plaza, Guangzhou, China
