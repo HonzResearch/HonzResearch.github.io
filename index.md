@@ -20,7 +20,7 @@ In Fall 2020 semester we are offering:
 | Patent | Provisional | Submitted | Issued | 
 | ---- | :----: | :----: | :----: |
 | HP001 | * |* |  |
-| HP002 |   |  |  |
+| HP002 | * |  |  |
 | HP003 |   |  |  |
 | HP004 |   |  |  |
 | HP005 |   |  |  |
