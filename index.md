@@ -45,7 +45,7 @@ hongnf(a)honz.com.cn
 
 *Want to join us?*
 
-See an [example problem](example_exam/HRIPIE_PS.pdf) set tailored for a previous interviewee. Get one tailored for you! 
+See an [example problem set](example_exam/HRIPIE_PS.pdf) tailored for a previous interviewee. Get one tailored for you! 
 
 #### For Page Maintainer
 
