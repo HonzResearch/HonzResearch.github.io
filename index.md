@@ -43,6 +43,9 @@ In Fall 2020 semester we are offering:
 hongnf(a)honz.com.cn   
 (replace (a) with @) 
 
+*Want to join us?*
+
+See an [example problem](HonzResearch.github.io/example_exam/HRIPIE_PS.pdf) set tailored for a previous interviewee. Get one tailored for you! 
 
 #### For Page Maintainer
 
