@@ -1,3 +1,12 @@
+
+## SPECIAL 2020全国定量药理大会
+
+Try our [WebApp: Personalized Dosage Regimen of Ceftazidime-Tazobactam](https://honzresearch.shinyapps.io/tata/)
+
+[Presentation Slides](example_exam/tata_slides.pdf)
+
+[Detailed Poster](example_exam/tata_poster.pdf)
+
 ## Welcome to HRIPIE ! 
 
 We are currently a non-profit research institute based in Canton Greater Bay Area, mostly in **Guangzhou**. 
