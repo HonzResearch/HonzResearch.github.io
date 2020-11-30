@@ -1,12 +1,4 @@
 
-## SPECIAL 2020全国定量药理大会
-
-Try our [WebApp: Personalized Dosage Regimen of Ceftazidime-Tazobactam](https://honzresearch.shinyapps.io/tata/)
-
-[Presentation Slides](example_exam/tata_slides.pdf)
-
-[Detailed Poster](example_exam/tata_poster.pdf)
-
 ## Welcome to HRIPIE ! 
 
 We are currently a non-profit research institute based in Canton Greater Bay Area, mostly in **Guangzhou**. 
@@ -20,6 +12,8 @@ In Fall 2020 semester we are offering:
 [MA102 Mathematics II](https://github.com/NanFangHong/HRIPIE-MA102)
 
 [PX902 Pharmacometrics Research](https://github.com/NanFangHong/HRIPIE-PX902) (access restricted to HRIPIE member)
+
+see our recent [talk](example_exam/tata_slides.pdf) and [poster](example_exam/tata_poster.pdf) in an annual pharmacometrics meeting
 
 [IE902 Industrial Engineering Research](https://github.com/NanFangHong/HRIPIE-IE902) (access restricted to HRIPIE member)
 
