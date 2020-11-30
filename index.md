@@ -3,7 +3,7 @@
 
 We are currently a non-profit research institute based in Canton Greater Bay Area, mostly in **Guangzhou**. 
 
-We spend half of our time to advance human knowledge without concern for immediate application, and the other half to apply mathematics to **pharmacometrics** and **industrial engineering**, which directly leads to patents. In some cases, our patents will turn into products, verified by our premier collaborator, Honz Pharma Group. 
+We spend half of our time to advance human knowledge without concern for immediate application, and the other half to apply mathematics to **pharmacometrics** (what is it? See our recent [talk](example_exam/tata_slides.pdf) and [poster](example_exam/tata_poster.pdf) in an annual pharmacometrics meeting) and **industrial engineering**, which directly leads to patents. In some cases, our patents will turn into products, verified by our premier collaborator, Honz Pharma Group. 
 
 ### Courses
 
@@ -12,8 +12,6 @@ In Fall 2020 semester we are offering:
 [MA102 Mathematics II](https://github.com/NanFangHong/HRIPIE-MA102)
 
 [PX902 Pharmacometrics Research](https://github.com/NanFangHong/HRIPIE-PX902) (access restricted to HRIPIE member)
-
-see our recent [talk](example_exam/tata_slides.pdf) and [poster](example_exam/tata_poster.pdf) in an annual pharmacometrics meeting
 
 [IE902 Industrial Engineering Research](https://github.com/NanFangHong/HRIPIE-IE902) (access restricted to HRIPIE member)
 
