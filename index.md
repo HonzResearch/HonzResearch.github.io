@@ -44,9 +44,7 @@ In Fall 2020 semester we are offering:
 hongnf(a)honz.com.cn   
 (replace (a) with @) 
 
-*Want to join us?*
-
-See an [example problem set](example_exam/HRIPIE_PS.pdf) tailored for a previous interviewee. Get one tailored for you! 
+*Join us?* See an [example problem set](example_exam/HRIPIE_PS.pdf) tailored for a previous interviewee. See an open [post-doc](example_exam/postdoc.pdf) position at Tongji University, Shanghai
 
 #### For Page Maintainer
 
