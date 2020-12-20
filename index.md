@@ -3,7 +3,7 @@
 
 We are currently a non-profit research institute based in Canton Greater Bay Area, mostly in **Guangzhou**. 
 
-We spend half of our time to advance human knowledge without concern for immediate application, and the other half to apply mathematics to **pharmacometrics** (what is it? See our recent [talk](example_exam/tata_slides.pdf) and [poster](example_exam/tata_poster.pdf) in an annual pharmacometrics meeting) and **industrial engineering**, which directly leads to patents. In some cases, our patents will turn into products, verified by our premier collaborator, Honz Pharma Group. 
+We spend half of our time to advance human knowledge without concern for immediate application, and the other half to apply mathematics to **pharmacometrics** and **industrial engineering**, which directly leads to patents. In some cases, our patents will turn into products, verified by our premier collaborator, Honz Pharma Group. 
 
 ### Courses
 
@@ -20,7 +20,7 @@ In Fall 2020 semester we are offering:
 
 | Patent | Provisional | Submitted | Issued | 
 | ---- | :----: | :----: | :----: |
-| [HP001](example_exam/tata_patent_submission.pdf) | * |* |  |
+| [HP001](example_exam/tata_patent_submission.pdf) [1](example_exam/tata_slides.pdf) [2](example_exam/tata_poster.pdf) | * |* |  |
 | [HP002](example_exam/suramin_patent_submission.pdf) | * | * |  |
 | HP003 |   |  |  |
 | HP004 |   |  |  |
