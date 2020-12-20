@@ -9,7 +9,7 @@ We spend half of our time to advance human knowledge without concern for immedia
 
 In Fall 2020 semester we are offering:
 
-[MA102 Mathematics II](https://github.com/NanFangHong/HRIPIE-MA102)
+[MA102 Mathematics II](https://nanfanghong.github.io/HRIPIE-MA102/)
 
 [PX902 Pharmacometrics Research](https://github.com/NanFangHong/HRIPIE-PX902) (access restricted to HRIPIE member)
 
