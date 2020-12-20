@@ -20,7 +20,7 @@ In Fall 2020 semester we are offering:
 
 | Patent | Provisional | Submitted | Issued | 
 | ---- | :----: | :----: | :----: |
-| [HP001](example_exam/tata_patent_submission.pdf) [1](example_exam/tata_slides.pdf) [2](example_exam/tata_poster.pdf) | * |* |  |
+| [HP001](example_exam/tata_patent_submission.pdf) [M1](example_exam/tata_slides.pdf) [M2](example_exam/tata_poster.pdf) | * |* |  |
 | [HP002](example_exam/suramin_patent_submission.pdf) | * | * |  |
 | HP003 |   |  |  |
 | HP004 |   |  |  |
