@@ -9,7 +9,7 @@ We spend half of our time to advance human knowledge without concern for immedia
 
 In Fall 2020 semester we are offering:
 
-[MA102 Mathematics II](https://nanfanghong.github.io/HRIPIE-MA102/) (UPDATE: L4 Maps between Topological Spaces)
+[MA102 Mathematics II](https://nanfanghong.github.io/HRIPIE-MA102/) (UPDATE: Topological Obstruction)
 
 [PX902 Pharmacometrics Research](https://github.com/NanFangHong/HRIPIE-PX902) (access restricted to HRIPIE member)
 
