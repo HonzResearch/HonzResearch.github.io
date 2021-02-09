@@ -11,7 +11,7 @@ In Spring 2021 semester we are offering:
 
 [MA102 Mathematics](https://nanfanghong.github.io/HRIPIE-MA102/) 
 
-[PX901 データ解析におけるプライバシー保護]() (access restricted to HRIPIE member)
+[PX901 Pharmacometrics: データ解析におけるプライバシー保護]() (access restricted to HRIPIE member)
 
 ### Repository
 
