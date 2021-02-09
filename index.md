@@ -9,9 +9,9 @@ We spend half of our time to advance human knowledge without concern for immedia
 
 In Spring 2021 semester we are offering:
 
-[MA101 Mathematics](https://nanfanghong.github.io/HRIPIE-MA102/) (UPDATE: Topological Obstruction)
+[MA102 Mathematics](https://nanfanghong.github.io/HRIPIE-MA102/) 
 
-[PX901 Pharmacometrics Research]() (access restricted to HRIPIE member)
+[PX901 データ解析におけるプライバシー保護]() (access restricted to HRIPIE member)
 
 ### Repository
 
