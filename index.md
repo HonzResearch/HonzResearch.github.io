@@ -17,7 +17,7 @@ In Spring 2021 semester we are offering:
 
 ### Repository
 
-[Fall 2020 MA102 Mathematics](example_exam/MA102 Fall 2020 Review.pdf)
+[Fall 2020 MA102 Mathematics](example_exam/MA102_Fall_2020_Review.pdf)
 
 ### Patent Pipeline
 
