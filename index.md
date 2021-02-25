@@ -13,6 +13,8 @@ In Spring 2021 semester we are offering:
 
 [PX901 Pharmacometrics](https://github.com/NanFangHong/HRIPIE-PX901/) (access restricted to HRIPIE member)
 
+[HASS Humanities, Arts and Social Sciences](https://github.com/NanFangHong/HRIPIE-HASS) (access restricted to HRIPIE member)
+
 ### Repository
 
 [Fall 2020 MA102 Mathematics](example_exam/MA102_Fall_2020_Review.pdf)
