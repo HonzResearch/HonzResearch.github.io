@@ -1,7 +1,7 @@
 
 ## Welcome to HRIPIE ! 
 
-We are currently a non-profit research institute based in Canton Greater Bay Area, mostly in **Guangzhou**. 
+We are a non-profit research institute based in **Guangzhou**, Canton Greater Bay Area.
 
 We spend half of our time to advance human knowledge without concern for immediate application, and the other half to apply mathematics to **pharmacometrics** and **industrial engineering**, which directly leads to patents. In some cases, our patents will turn into products, verified by our premier collaborator, Honz Pharma Group. 
 
@@ -35,7 +35,7 @@ In Spring 2021 semester we are offering:
 
 
 
-### Reach to Us
+### Contact Us
 
 *Address*
 26F, Dong'Shan Plaza, Guangzhou, China
@@ -50,7 +50,7 @@ hongnf(a)honz.com.cn
 
 *Join us?* See an [example problem set](example_exam/HRIPIE_PS.pdf) tailored for a previous interviewee. See an open [post-doc](example_exam/postdoc.pdf) position at Tongji University, Shanghai
 
-#### For Page Maintainer
+### For Page Maintainer
 
 You can use the [editor on GitHub](https://github.com/HonzResearch/HonzResearch.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files. Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
