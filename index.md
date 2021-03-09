@@ -17,7 +17,7 @@ In Spring 2021 semester we are offering:
 
 ### Gallery
 
-[MA102 Mathematics (Fall 2020 )](example_exam/MA102_Fall_2020_Review.pdf)
+[MA102 Mathematics (Fall 2020)](example_exam/MA102_Fall_2020_Review.pdf)
 
 [Ceftazidime-Tazobactam Pharmacokinetics: Extrapolation from Adults to Children](https://honzresearch.shinyapps.io/tata/)
 
