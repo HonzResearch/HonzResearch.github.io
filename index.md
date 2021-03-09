@@ -15,9 +15,13 @@ In Spring 2021 semester we are offering:
 
 [HASS Humanities, Arts and Social Sciences](https://github.com/NanFangHong/HRIPIE-HASS) (access restricted to HRIPIE member)
 
-### Repository
+### Gallery
 
-[Fall 2020 MA102 Mathematics](example_exam/MA102_Fall_2020_Review.pdf)
+[MA102 Mathematics (Fall 2020 )](example_exam/MA102_Fall_2020_Review.pdf)
+
+[Ceftazidime-Tazobactam Pharmacokinetics: Extrapolation from Adults to Children](https://honzresearch.shinyapps.io/tata/)
+
+[Suramin Pharmacokinetics: Repurpose for Acute Kidney Injury](https://honzresearch.shinyapps.io/suramin/)
 
 ### Patent Pipeline
 
