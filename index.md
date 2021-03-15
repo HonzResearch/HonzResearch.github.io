@@ -31,7 +31,7 @@ In Spring 2021 semester we are offering:
 | [HP001](example_exam/tata_patent_submission.pdf) | * |* |  |
 | [HP002](example_exam/suramin_patent_submission.pdf) | * | * |  |
 | [HP003](example_exam/iso_patent_submission.pdf) | * | * |  |
-| HP004 |   |  |  |
+| [HP004](example_exam/suramin_patent_2_submission.pdf) | * | * |  |
 | HP005 |   |  |  |
 | HP006 |   |  |  |
 | HIE001 |   |  |  |
