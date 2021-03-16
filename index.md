@@ -1,7 +1,7 @@
 
 ## Welcome to HRIPIE ! 
 
-We are a non-profit research institute based in **Guangzhou**, Canton Greater Bay Area.
+We are a non-profit research institute based in **Guangzhou**, the center of Guangdong-Hong Kong-Macau Greater Bay Area.
 
 We spend half of our time to advance human knowledge without concern for immediate application, and the other half to apply mathematics to **pharmacometrics** and **industrial engineering**, which directly leads to patents. In some cases, our patents will turn into products, verified by our premier collaborator, Honz Pharma Group. 
 
