@@ -17,7 +17,7 @@ In Spring 2021 semester we are offering:
 
 ### Gallery
 
-[Secret of Hair Whorl: An View from Algebraic Topology](example_exam/MA102_Fall_2020_Review.pdf)
+[Secret of Hair Whorl: A View from Algebraic Topology](example_exam/MA102_Fall_2020_Review.pdf)
 
 [Ceftazidime-Tazobactam Pharmacokinetics: Extrapolation from Adults to Children](https://honzresearch.shinyapps.io/tata/)
 
