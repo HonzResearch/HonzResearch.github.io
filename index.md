@@ -52,7 +52,7 @@ In Spring 2021 semester we are offering:
 hongnf(a)honz.com.cn   
 (replace (a) with @) 
 
-*Join us?* See an [example problem set](example_exam/HRIPIE_PS.pdf) tailored for a previous interviewee. See [two open positions](example_exam/HRIPIE%20Fellowship.pdf) at [MIT Asian Career Fair 2021](http://asianclub.mit.edu/tongji-x-honz-21) 
+*Join us?* See an [example problem set](example_exam/HRIPIE_PS.pdf) tailored for a previous interviewee. See [two open positions](example_exam/Tongji-Honz.pdf) at [MIT Asian Career Fair 2021](http://asianclub.mit.edu/tongji-x-honz-21) 
 
 ### For Page Maintainer
 
