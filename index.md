@@ -21,6 +21,8 @@ In Spring 2021 semester we are offering:
 
 [Secret of Hair Whorl: A View from Algebraic Topology](example_exam/MA102_Fall_2020_Review.pdf)
 
+[ChinaBio 2021 Repository](https://honzresearch.shinyapps.io/ChinaBio_2021_Repository/)
+
 [Ceftazidime-Tazobactam Pharmacokinetics: Extrapolation from Adults to Children](https://honzresearch.shinyapps.io/tata/)
 
 [Suramin Pharmacokinetics: Repurpose for Acute Kidney Injury](https://honzresearch.shinyapps.io/suramin/)
