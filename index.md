@@ -19,7 +19,7 @@ In Spring 2021 semester we are offering:
 
 ### Gallery
 
-[Science, The Endless Frontier](https://github.com/HonzResearch/HonzResearch.github.io/blob/master/example_exam/Science__The_Endless_of_Frontier.pdf)
+[Science, The Endless Frontier](example_exam/Science__The_Endless_of_Frontier.pdf)
 
 [Secret of Hair Whorl: A View from Algebraic Topology](example_exam/MA102_Fall_2020_Review.pdf)
 
