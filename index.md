@@ -9,7 +9,7 @@ We spend half of our time to advance human knowledge without concern for immedia
 
 In Summer 2021 we have research opportunities at **Allegro Center**:
 
-[Allegro Center](https://github.com/NanFangHong/HRIPIE-IE901) 
+[Design Thinking & Computational Approach](https://github.com/NanFangHong/HRIPIE-IE901) 
 
 ### Gallery
 
