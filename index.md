@@ -7,9 +7,9 @@ We spend half of our time to advance human knowledge without concern for immedia
 
 ### Courses
 
-In Spring 2021 semester we are offering:
+In Summer 2021 we have research opportunities at **Allegro Center**:
 
-
+[Allegro Center](https://github.com/NanFangHong/HRIPIE-IE901) 
 
 ### Gallery
 
@@ -25,13 +25,11 @@ In Spring 2021 semester we are offering:
 
 [Suramin Pharmacokinetics: Repurpose for Acute Kidney Injury](https://honzresearch.shinyapps.io/suramin/)
 
-# Archive
+### Archive
 
 **Spring 2021** 
 
 [MA102 Mathematics](https://nanfanghong.github.io/HRIPIE-MA102/) 
-
-[IE901 Industrial Engineering](https://github.com/NanFangHong/HRIPIE-IE901) 
 
 [PX901 Pharmacometrics](https://github.com/NanFangHong/HRIPIE-PX901/) (access restricted to HRIPIE member) 
 
