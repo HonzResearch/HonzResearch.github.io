@@ -9,13 +9,7 @@ We spend half of our time to advance human knowledge without concern for immedia
 
 In Spring 2021 semester we are offering:
 
-[MA102 Mathematics](https://nanfanghong.github.io/HRIPIE-MA102/) 
 
-[IE901 Industrial Engineering](https://github.com/NanFangHong/HRIPIE-IE901) 
-
-[PX901 Pharmacometrics](https://github.com/NanFangHong/HRIPIE-PX901/) (access restricted to HRIPIE member)
-
-[HASS Humanities, Arts and Social Sciences](https://github.com/NanFangHong/HRIPIE-HASS) (access restricted to HRIPIE member)
 
 ### Gallery
 
@@ -31,6 +25,13 @@ In Spring 2021 semester we are offering:
 
 [Suramin Pharmacokinetics: Repurpose for Acute Kidney Injury](https://honzresearch.shinyapps.io/suramin/)
 
+# Archive
+
+**Spring 2021** 
+
+[MA102 Mathematics](https://nanfanghong.github.io/HRIPIE-MA102/) [IE901 Industrial Engineering](https://github.com/NanFangHong/HRIPIE-IE901) [PX901 Pharmacometrics](https://github.com/NanFangHong/HRIPIE-PX901/) (access restricted to HRIPIE member) [HASS Humanities, Arts and Social Sciences](https://github.com/NanFangHong/HRIPIE-HASS) (access restricted to HRIPIE member)
+
+
 ### Patent Pipeline
 
 
@@ -41,9 +42,7 @@ In Spring 2021 semester we are offering:
 | [HP003](example_exam/iso_patent_submission.pdf) | * | * |  |
 | [HP004](example_exam/suramin_patent_2_submission.pdf) | * | * |  |
 | HP005 |   |  |  |
-| HP006 |   |  |  |
-| HIE001 |   |  |  |
-| HM001 |   |  |  |
+
 
 
 
