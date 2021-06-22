@@ -30,8 +30,11 @@ In Spring 2021 semester we are offering:
 **Spring 2021** 
 
 [MA102 Mathematics](https://nanfanghong.github.io/HRIPIE-MA102/) 
+
 [IE901 Industrial Engineering](https://github.com/NanFangHong/HRIPIE-IE901) 
+
 [PX901 Pharmacometrics](https://github.com/NanFangHong/HRIPIE-PX901/) (access restricted to HRIPIE member) 
+
 [HASS Humanities, Arts and Social Sciences](https://github.com/NanFangHong/HRIPIE-HASS) (access restricted to HRIPIE member)
 
 
