@@ -7,9 +7,9 @@ We spend half of our time to advance human knowledge without concern for immedia
 
 ### Courses
 
-In Summer 2021 we have research opportunities at **Allegro Center**:
+In Fall 2021 we are presenting a new course series for **Adagio Fellow Program** at **Allegro Center**:
 
-[Design Thinking & Computational Approach](https://github.com/NanFangHong/HRIPIE-IE901) 
+[Adagio Fellow Program](https://github.com/NanFangHong/HRIPIE-Adagio)
 
 ### Gallery
 
@@ -30,6 +30,8 @@ In Summer 2021 we have research opportunities at **Allegro Center**:
 **Spring 2021** 
 
 [MA102 Mathematics](https://nanfanghong.github.io/HRIPIE-MA102/) 
+
+[IE901 Industrial Engineering](https://github.com/NanFangHong/HRIPIE-IE901) 
 
 [PX901 Pharmacometrics](https://github.com/NanFangHong/HRIPIE-PX901/) (access restricted to HRIPIE member) 
 
