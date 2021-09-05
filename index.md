@@ -5,7 +5,7 @@ We are a non-profit research institute based in **Guangzhou**, the center of Gua
 
 ### Courses
 
-In Fall 2021 we are presenting a new course series for **Adagio Fellow Program** at **Allegro Center**:
+In **Fall 2021** we are presenting a new course series for **Adagio Fellow Program** at **Allegro Center**:
 
 [Adagio Fellow Program](https://github.com/NanFangHong/HRIPIE-Adagio)
 
